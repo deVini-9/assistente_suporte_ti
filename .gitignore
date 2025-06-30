@@ -1,14 +1,12 @@
-# Arquivos de ambiente virtual
-venv/
+# Ambiente Virtual do Python
 /venv/
+
+# Arquivos de cache e compilados do Python
 __pycache__/
+*.pyc
 
-# Arquivos de configuração de IDEs
-.vscode/
-.idea/
-
-# Arquivo de variáveis de ambiente (onde guardaremos a API Key)
+# Arquivo de segredos e chaves de API
 .env
 
-# Outros
-*.pyc
+# Pasta da Base de Conhecimento (NÃO ENVIAR PARA O GITHUB)
+/base_de_conhecimento/
