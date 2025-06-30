@@ -1,0 +1,14 @@
+# Arquivos de ambiente virtual
+venv/
+/venv/
+__pycache__/
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+
+# Arquivo de variáveis de ambiente (onde guardaremos a API Key)
+.env
+
+# Outros
+*.pyc
